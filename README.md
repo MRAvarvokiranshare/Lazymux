@@ -1,6 +1,7 @@
 # Lazymux
 
-(https://github.com/MRAvarvokiranshare/Lazymux/assets/146922434/9ed359d3-68c4-46cc-962b-27581102b712)
+![lazymux_4](https://github.com/MRAvarvokiranshare/Lazymux/assets/146922434/f8ae2262-e690-4ce3-9219-667a471036e2)
+
 
 
 آشنایی و نصب ابزار Lazymux
