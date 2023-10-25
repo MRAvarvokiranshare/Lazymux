@@ -41,6 +41,7 @@ python lazymux.py
 
 
 
-![lazymux_4](https://github.com/MRAvarvokiranshare/Lazymux/assets/146922434/dfd40067-2fc1-47fd-936c-f0dcdff5b7af)
+![Screenshot_۲۰۲۳۱۰۲۵_۱۲۲۴۰۷_Termux](https://github.com/MRAvarvokiranshare/Lazymux/assets/146922434/b367eee0-c176-4505-8928-9e672a03df09)
+
 
 #_اق_مستر_اواروک_ایرانشهری[🌿🖤]
