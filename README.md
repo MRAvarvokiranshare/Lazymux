@@ -30,9 +30,14 @@ python2 lazymux.py
 اگر کد های شما به این مشکل Error برخود کرد  کد های زیر را با هم کپی کنید (کپی تمام کد ها در یک کلیک) و اجرا کنید 
 
 apt install python git
+
 git clone https://github.com/Gameye98/Lazymux
+
 cd Lazymux
+
 python lazymux.py
+
+
 
 
 
